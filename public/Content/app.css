@@ -1,1 +1,8 @@
 /* custom css goes here */
+body{
+    background-color: blanchedalmond;
+}
+
+#logo {
+    width: 50px;
+}
